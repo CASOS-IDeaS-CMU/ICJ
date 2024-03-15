@@ -1,0 +1,33 @@
+
+=== DECISIONS ===
+-- Optimal lag lengths ---
+citations_next_year 1
+citations_next_5_years 1
+citations_next_10_years 1
+
+=== JUDGES IN DIRECT AGREEMENT ===
+-- Optimal lag lengths ---
+citations_next_year 4
+citations_next_5_years 1
+citations_next_10_years 1
+-- Max coefficient changes ---
+citations_next_year 0.005786301147536713
+-- Max AME changes ---
+citations_next_year 0.003283613174687443
+-- Significance changes ---
+
+=== JUDGES IN DIRECT AND SYMMETRIC INDIRECT AGREEMENT ===
+-- Optimal lag lengths ---
+citations_next_year 3
+citations_next_5_years 3
+citations_next_10_years 1
+-- Max coefficient changes ---
+citations_next_year 0.019391697766853296
+citations_next_5_years 0.022938095982250495
+-- Max AME changes ---
+citations_next_year 0.010396656684731075
+citations_next_5_years 0.016591565937179323
+-- Significance changes ---
+citations_next_year {'hub'}
+citations_next_5_years {'in_degree'}
+

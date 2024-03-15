@@ -1,0 +1,6 @@
+
+=== Excluded Citations ===
+Link ID 2008, citation ID 102079, source ID 79, target ID 78.
+Link ID 1602, citation ID 101662, source ID 52, target ID 39.
+Link ID 2009, citation ID 102080, source ID 79, target ID 78.
+

@@ -1,0 +1,11 @@
+
+=== DECISIONS ===
+citations_next_year 0.09615384615384616
+citations_next_5_years 0.1595744680851064
+citations_next_10_years 0.14634146341463414
+
+=== JUDGES ===
+citations_next_year 0.0728476821192053
+citations_next_5_years 0.0948905109489051
+citations_next_10_years 0.11382113821138211
+
